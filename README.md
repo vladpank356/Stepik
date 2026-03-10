@@ -1,1 +1,1 @@
-# Stepik
+Selenium stepik
